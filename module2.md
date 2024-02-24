@@ -44,7 +44,9 @@ As students in this class, we agree to fulfill and present the results of a sele
 
 1. We recieved kit number 9. Google Sheets link of our recieved parts: [here](https://docs.google.com/spreadsheets/d/1qb0uxTUjVfAXhcyMBwt0HGUkXmfpsmdn01q703IYodM/edit?usp=sharing)
 
-2. 
+2. Nodes are the end points of a IOT structure, such as lights, sensors and buttons. A gateway is a device that allows the items in a IOT network talk to other devices on some other network. It is also a edge device for the network. Devices in a network together form a cloud that can be accessed from the internet. In our example the phone is connected to the internet from which it can communicate with our home cloud
+   ![Untitled](https://github.com/bukyt/IoTgeneral/assets/116277045/8d81ae8e-cd12-4c7b-8c85-2091deb48bc9)
+
 
 3. esp32 is a series of low cost and power microcontrollers with wifi and dual mode bluetooth. They allow for low cost projects and exploring, are easy to program and connect with various external parts.  
 ESP8266 - can use android or iot, attach a lot of stuff and sensors. Can connect to usb and power regulates easily. Cheap, as expensive as a coffee. Good to bridge gap of hardware and software.  
