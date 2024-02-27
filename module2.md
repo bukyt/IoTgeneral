@@ -46,16 +46,19 @@ As students in this class, we agree to fulfill and present the results of a sele
 
 2. Nodes are the end points of a IOT structure, such as lights, sensors and buttons. A gateway is a device that allows the items in a IOT network talk to other devices on some other network. It is also a edge device for the network. Devices in a network together form a cloud that can be accessed from the internet. In our example the phone is connected to the internet from which it can communicate with our home cloud
    ![Untitled](https://github.com/bukyt/IoTgeneral/assets/116277045/8d81ae8e-cd12-4c7b-8c85-2091deb48bc9)
+   ![image](https://github.com/bukyt/IoTgeneral/assets/116277045/b4690b73-b4fe-435e-a9ba-05826e3e0db9)
+  ![MH-ET_LIVE_D1_mini_ESP32_pinout](https://github.com/bukyt/IoTgeneral/assets/116277045/cd9f5cd5-0739-4be2-85ca-444327c2041a)
 
 
-3. esp32 is a series of low cost and power microcontrollers with wifi and dual mode bluetooth. They allow for low cost projects and exploring, are easy to program and connect with various external parts.  
+
+4. esp32 is a series of low cost and power microcontrollers with wifi and dual mode bluetooth. They allow for low cost projects and exploring, are easy to program and connect with various external parts.  
 ESP8266 - can use android or iot, attach a lot of stuff and sensors. Can connect to usb and power regulates easily. Cheap, as expensive as a coffee. Good to bridge gap of hardware and software.  
 It is the democratization of hardware because it is cheap and modular, making it possible for anyone to get started with hardware. It is also cheap and is based on open source.
 
-4. RGB Color mixer design - blue is always lit, but pressing a button shines either red or green into the mix and makes the color purple-ish or yellow-ish.
+5. RGB Color mixer design - blue is always lit, but pressing a button shines either red or green into the mix and makes the color purple-ish or yellow-ish.
    ![Image](https://github.com/bukyt/IoTgeneral/assets/68914924/f5429e30-0d77-4986-b414-c7432e5ec3cd)
 
-5. Blink was done according to the video instructions. (Pull-up) Button added to pin D1 to toggle between the external blinking LED.
+6. Blink was done according to the video instructions. (Pull-up) Button added to pin D1 to toggle between the external blinking LED.
    ![Image](https://github.com/bukyt/IoTgeneral/assets/68914924/8197da65-b253-42b5-a021-37500817382d)
 
 [Videos of tasks 4&5](https://imgur.com/a/N7N7x5i)
