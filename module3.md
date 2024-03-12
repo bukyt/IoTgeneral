@@ -25,6 +25,16 @@ As students in this class, we agree to fulfill and present the results of a sele
    
 ![IMG_20240305_134502501 MP](https://github.com/bukyt/IoTgeneral/assets/68914924/605a5668-ed5a-4aa5-9e58-24d515c61c16)
 
+Pull-up and pull-down resistors
+![pull-up](https://github.com/bukyt/IoTgeneral/assets/68914924/c79d7558-6d0b-4225-8813-f6592a16e8ee)
+Left one is pull-up and right is pull-down  
+Left one pulls the logic gate pin up to 3.3V using a resistor (we have 10k ohm available). Pressing the button connects the voltage to ground, removing the voltage from logic gate and indicates a button press  
+Right one pulls the logic gate pin down to ground using a resistor. Pressing the button raises the voltage to indicate button press
+
+INPUT_PULLUP sets up the microcontroller pin as a pull-up resistor button.
+
+
+
 3.1. We did the task, but no images. Can show in class. 
 3.2. The LED is running the previous task program, and the button is blinking the LED when button is held down.
 ![IMG_20240305_134728173](https://github.com/bukyt/IoTgeneral/assets/68914924/ba27c9de-4361-4bca-995f-c64b1dbc740f)
