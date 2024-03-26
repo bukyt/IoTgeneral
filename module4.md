@@ -13,3 +13,13 @@ We plan to design a home device (air conditioner) as an LED (on/off light) on a 
 We will design a Discord bot using Node-Red to report us the temperature on command (through us writing in a channel) or do some other task.
 
 
+**Results:**
+
+MQTT communication:
+[video link through Imgur](https://imgur.com/a/vEOeaY8)
+
+
+Air conditioner showcase working through MQTT (turn-on temp is set at 24.6):
+[video link through Imgur](https://imgur.com/a/BOB2v9F)
+
+The rest is coming
