@@ -8,17 +8,16 @@ As students in this class, we agree to present our skills in using and understan
 
 **Tasks (As a story):**
 
-* MQTT
+* MQTT  
 We are showing communication between devices in different rooms.
-* Air conditioner
+* Air conditioner  
 We have a microcontroller, which sends the air temperature value to the MQTT topic "airTemp", and another microcontroller as an "air conditioner" with a relay and LED light. It receives the temperature value from the MQTT topic and depending on the temperature received, it turns on/off the "air conditioner". For testing the device, we use an MQTT simulator written in Python. It generates the temperature values, like the first microcontroller, and sends it to the same topic.
 
-* Discord bot
+* Discord bot  
 We want to see, what our home air temperature is when being away. For this we will design a Discord bot using Node-Red to respond to us on a command. After us writing /temperature in a channel, the bot responds with the latest info on the temperature value. This way we know how hot or cool our home is and react as needed. 
 
 
-**Results:**
-we don't know how to embed videos
+## Results:
 
 MQTT communication:
 [video link through Imgur](https://imgur.com/a/vEOeaY8)
