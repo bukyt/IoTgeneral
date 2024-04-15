@@ -13,10 +13,10 @@ As students in this class, we agree to present our skills in using and understan
 * We are designing a home security system with access control. It would feature:
     * RFID card access
     * a "main door"
-    * sound and LED light signals for false entry
-    * data of last openings (time, entry allowed etc.)
+    * sound signals for false entry
+    * LED signal for having an open door
     * remote opening of the "door" using another microcontroller
     * ability to disable all opening of doors (security feature)
-    * A dashboard might be added for phone operation
+    * A dashboard featuring current lock status, ability to open door
 
 * Concept of closures(to be updated)
