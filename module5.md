@@ -19,4 +19,26 @@ As students in this class, we agree to present our skills in using and understan
     * ability to disable all opening of doors (security feature)
     * A dashboard featuring current lock status, ability to open door
 
-* Concept of closures(to be updated)
+
+## Results
+
+Framework benefits: 
+* There is less to be done from scratch, writing code is simplified by the use of simple modules
+* Usually frameworks are more stable than self-built systems and can survive small code changes more easily
+* Frameworks have the ability to quickly deploy changes, reducing time cost
+* In the context of IoTEmpower, devices can be updated wirelessly, further reducing time cost and making updates faster
+* Also, IoTEmpower allows setting up devices using only one line (everything else is included in the package)
+
+Remote deployment:
+IoTEmpower has a simple interface to set up devices. First flash needs to be over USB, and after that every flash can be done over WiFi, reducing the need for wires.
+
+
+Security system:
+Final functions:
+* RFID card access with selected cards
+* remote control to open lock and monitor latest activity
+* sounds for allowed/denied entry
+* LED for showing an open door
+* Dashboard for opening lock remotely, viewing last time lock was opened and disabling card access
+
+Pictures and videos will be added
